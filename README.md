@@ -56,17 +56,16 @@ Reduzir filas em hospitais e melhorar a experiência do usuário no acesso a ser
 
 👥 Troca de usuário e edição de perfil.
 
+
 🛠️ Tecnologias Utilizadas
 
 Linguagem: Dart
 
 Framework: Flutter
 
-Banco de Dados: Simulação local (sem banco de dados completo)
+Banco de Dados: Firebase
 
-Ferramentas de apoio:
-
-GitHub (controle de versão)
+Ferramentas de apoio: GitHub (controle de versão)
 
 Trello (gestão de backlog)
 
