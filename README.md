@@ -16,28 +16,27 @@ Dificuldade em localizar hospitais e farmácias próximas.
 
 Ausência de lembretes e notificações de consultas e vacinas.
 
-🎯 Objetivos
-Objetivo Geral
+🎯Objetivo Geral
 
 Reduzir filas em hospitais e melhorar a experiência do usuário no acesso a serviços de saúde pública por meio de um aplicativo intuitivo.
 
-Objetivos Específicos
+🎯Objetivos Específicos
 
-Criar uma tela de cadastro e login para diferentes tipos de usuários (pacientes e médicos).
-
-Desenvolver um menu de serviços centralizado.
-
-Disponibilizar uma aba de uso com informações sobre consultas, planos de saúde e médicos.
-
-Implementar uma aba de vacinas com calendário atualizado (incluindo busca por idade e cidade).
-
-Criar um sistema para localizar hospitais e farmácias próximas.
-
-Desenvolver um sistema de agendamento de consultas.
-
-Implementar notificações de consultas e vacinas.
-
-Permitir troca de usuários e edição de informações de perfil.
+  Criar uma tela de cadastro e login para diferentes tipos de usuários (pacientes e médicos).
+  
+  Desenvolver um menu de serviços centralizado.
+  
+  Disponibilizar uma aba de uso com informações sobre consultas, planos de saúde e médicos.
+  
+  Implementar uma aba de vacinas com calendário atualizado (incluindo busca por idade e cidade).
+  
+  Criar um sistema para localizar hospitais e farmácias próximas.
+  
+  Desenvolver um sistema de agendamento de consultas.
+  
+  Implementar notificações de consultas e vacinas.
+  
+  Permitir troca de usuários e edição de informações de perfil.
 
 📌 Funcionalidades Previstas
 
